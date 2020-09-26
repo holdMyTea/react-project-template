@@ -1,7 +1,7 @@
 # Basic React Project Template
 ~~as if GitHub haven't had too many of them already~~
 
-Just wanted to try setting a React project up by myself w/o CRA, to see what's inside.
+Just wanted to try setting a React project up by myself w/o CRA, to understand how it works.
 
 It includes (minimalistic):
 + WebPack config

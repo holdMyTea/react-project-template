@@ -12,3 +12,10 @@ parserOptions:
   ecmaFeatures:
     jsx: true
   sourceType: module
+
+settings:
+  react:
+    version: detect
+
+ignorePatterns:
+  - build/
